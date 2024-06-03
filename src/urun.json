@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone XS",
+        "price": 11000,
+        "max":30,
+        "image": "https://cdn.easycep.com/assets/_web/img/product/2022/06/l_apple-iphone-xs-989-1-1655475155.webp"
+    },
+    {
+        "id":2,
+        "title":"ekmek",
+        "price":2,
+        "max":300,
+        "image": "data:image/jpeg;base64,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"
+    },
+    {
+        "id":3,
+        "title":"kola",
+        "price":2,
+        "max":150,
+        "image": "https://images.migrosone.com/sanalmarket/product/08010903/8010903_yan-2e2bcb-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "title":"araba",
+        "price":15000,
+        "max":40,
+        "image": "https://cdn.buttercms.com/elJQKwX5QImjZ2nZUB2M"
+    },
+    {
+        "id":5,
+        "title":"motor",
+        "price":10000,
+        "max":30,
+        "image": "https://d2bywgumb0o70j.cloudfront.net/2021/12/21/19ba8d6612bb7867f2ebc25b48d5d385_b9396c6729fcdb7f.png"
+    }
+    ,
+    {
+        "id":6,
+        "title":"Yat",
+        "price":1000000,
+        "max":25,
+        "image": "https://www.4kmarin.com/wp-content/uploads/2022/12/8-40-neo.jpg"
+    }
+    ,
+    {
+        "id":7,
+        "title":"Macbook Air M1",
+        "price":1000,
+        "max":20,
+        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_89490583/mobile_786_587_png/APPLE-MacBook-Air-M1-8GB-256GB-SSD-13.3in%C3%A7-G%C3%BCm%C3%BC%C5%9F-MGN93TU-A"
+    }
+    ,
+    {
+        "id":8,
+        "title":"Dublex Ev",
+        "price":1050000,
+        "max":10,
+        "image": " https://evoahsap.com/wp-content/uploads/2019/12/evo-ahsap-yapilar-dubleks-ahsap-evler-projesi-1.jpg"
+    }
+   
+]
